@@ -2,7 +2,7 @@
   "name": "money-guard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tania1103.github.io/Money_Guard--React_Team_3/",
+  "homepage": "https://alexandramdv.github.io/Money_Guard--React/",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
@@ -65,5 +65,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "Acest proiect a fost creat cu ajutorul\r [Create React App](https://github.com/facebook/create-react-app). Pentru prezentări\r și configurarea de funcții suplimentare\r [consultă documentația](https://facebook.github.io/create-react-app/docs/getting-started).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandraMdv/Money_Guard--React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandraMdv/Money_Guard--React/issues"
   }
 }
